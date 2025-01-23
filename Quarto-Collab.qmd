@@ -22,4 +22,4 @@ dat<- data.frame(t=seq(0, 2*pi, by=0.1) )
  with(dat, plot(x,y, type="l"))
 ```
 
-
+### Thank you StackOverflow for the code for this
