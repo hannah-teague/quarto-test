@@ -8,8 +8,7 @@ editor: visual
 
 ## Let's collaborate
 
-![](images/glasses emoji.png)
-
+![](images/glasses%20emoji.png)
 
 ### Enjoy this graph
 
@@ -23,3 +22,5 @@ dat<- data.frame(t=seq(0, 2*pi, by=0.1) )
 ```
 
 ### Thank you StackOverflow for the code for this
+
+HeLOO
