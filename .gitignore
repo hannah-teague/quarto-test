@@ -1,3 +1,15 @@
+# Remove Quarto stuff
+*.html
+*_files/
+
+# Omit certain file types
+*ppt
+*pdf
+*docx
+
+# Hide
+raw_data
+
 # History files
 .Rhistory
 .Rapp.history
