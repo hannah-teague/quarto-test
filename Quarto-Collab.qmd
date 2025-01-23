@@ -23,4 +23,4 @@ dat<- data.frame(t=seq(0, 2*pi, by=0.1) )
 
 ### Thank you StackOverflow for the code for this
 
-HeLOO
+![](https://www.shutterstock.com/shutterstock/photos/1514878724/display_1500/stock-vector-nerd-face-emoji-clever-emoticon-with-glasses-geek-or-student-vector-illustration-1514878724.jpg)
